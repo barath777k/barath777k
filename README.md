@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @barath777k
+- 👋 Hi, I’m Bharath Kumar
 - 👀 I’m interested in statistics, data science
 - 🌱 I’m currently learning R for data science
 
